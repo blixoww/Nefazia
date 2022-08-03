@@ -1,0 +1,10 @@
+name: Nefazia
+version: '1.0-SNAPSHOT'
+main: fr.blixow.nefazia.Main
+authors: [ blixow14 ]
+description: plugin de Nefazia
+commands:
+  ngive:
+    description: commande de give
+  level:
+    description: commande pour voir les niveaux
